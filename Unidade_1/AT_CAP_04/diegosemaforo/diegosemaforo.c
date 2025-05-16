@@ -1,11 +1,13 @@
-/*
+/*RESIDÊNCIA PROFISSIONAL EM SISTEMAS EMBARCADOS-IFMA
  * Protótipo de Semáforo Inteligente para Pedestres
  * Autor: [Diego da Silva Campos do Nascimento]
  * Data: [16/05/2025]
- * 
- * Descrição: Controla um semáforo com temporização programável,
- *            botões para pedestres e feedback visual/sonoro.
- * Repositório no GitHub - https://github.com/DiegoCamposRJ/Residencia_EMBARCATECH_2025-IFMA_MTC
+ * Matrícula:20251RSE.MTC0017
+ *
+ * Descrição: Controla um semáforo com temporização programável,     
+ *      botões para pedestres e feedback visual/sonoro.
+ *
+ * Repositório no GitHub - https://github.com/DiegoCamposRJ/Residencia_EMBARCATECH_2025-IFMA_MTC/tree/main/Unidade_1/AT_CAP_04/diegosemaforo
  * Projeto no Wokwi - https://wokwi.com/projects/431083943044407297
  */
 
