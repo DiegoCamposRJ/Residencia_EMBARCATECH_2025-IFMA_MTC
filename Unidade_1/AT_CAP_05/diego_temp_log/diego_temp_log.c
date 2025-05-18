@@ -6,7 +6,7 @@
  *
  * Descrição: Sistema de Aquisição de Temperatura com DMA
  *
- * Repositório no GitHub - https://github.com/DiegoCamposRJ/Residencia_EMBARCATECH_2025-IFMA_MTC/tree/main/Unidade_1/AT_CAP_05
+ * Repositório no GitHub - https://github.com/DiegoCamposRJ/Residencia_EMBARCATECH_2025-IFMA_MTC/tree/main/Unidade_1/AT_CAP_05/diego_temp_log
  * 
  */
 #include <stdio.h>
